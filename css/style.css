@@ -1,0 +1,9 @@
+html{
+  box-sizing: border-box;
+}
+body{
+  background-color: #c3c3c3;
+}
+header{
+  font-size: 39px;
+}
